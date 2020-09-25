@@ -6,11 +6,11 @@ This repo contains a simple neuro task to use as a starter for building [jspsych
 
 ## Getting Started
 
-1. Clone this repo onto your computer using git (note: task-<TASK NAME> is a placeholder.)
+1. Clone this repo onto your computer using git (note: `task-<TASK NAME>` is a placeholder.)
 ```
 git clone https://github.com/brown-ccv/neuro-task-starter.git task-<TASK NAME> --depth 1
 ```
-2. Navigate to the task-<TASK NAME> directory.
+2. Navigate to the `task-<TASK NAME>` directory.
 ```
 cd task-<TASK NAME>
 ```
@@ -35,11 +35,11 @@ npm run dev
 ```
 
 For Windows:
-You will need to open 2 terminals. In the first (and make sure you are in the task-<TASK NAME> repo directory), run the command:
+You will need to open 2 terminals. In the first (and make sure you are in the `task-<TASK NAME>` repo directory), run the command:
 ```
 npm start
 ```
-In the second terminal (and make sure you are in the task-<TASK NAME> repo directory), run:
+In the second terminal (and make sure you are in the `task-<TASK NAME>` repo directory), run:
 ```
 npm run electron-dev
 ```
